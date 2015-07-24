@@ -14,6 +14,11 @@ deploying the application in different environments.
 [![Total Downloads](https://poser.pugx.org/yiisoft/yii2-app-advanced/downloads.png)](https://packagist.org/packages/yiisoft/yii2-app-advanced)
 [![Build Status](https://travis-ci.org/yiisoft/yii2-app-advanced.svg?branch=master)](https://travis-ci.org/yiisoft/yii2-app-advanced)
 
+The request_log.json is located frontend/web
+    
+frontend/view/layout/rabbitmq_json.php: sending data to rabbitmq a create local json
+
+
 Yii2 request log module
 Yii2 request log module.
 
@@ -131,6 +136,4 @@ How to use
     }
     
     
-    The request_log.json is located frontend/web
     
-    frontend/view/layout/rabbitmq_json.php: sending data to rabbitmq a create local json
