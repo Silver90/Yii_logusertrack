@@ -1,0 +1,2402 @@
+[
+    {
+        "id": "240",
+        "app_id": "app-frontend",
+        "route": "site\/index",
+        "params": "array (\n  'r' => 'site\/index',\n)",
+        "user_id": "1",
+        "ip": "127.0.0.1",
+        "datetime": "2015-07-24 09:27:54",
+        "user_agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/43.0.2357.134 Safari\/537.36"
+    },
+    {
+        "id": "239",
+        "app_id": "app-frontend",
+        "route": "site\/index",
+        "params": "array (\n  'r' => 'site\/index',\n)",
+        "user_id": "1",
+        "ip": "127.0.0.1",
+        "datetime": "2015-07-24 09:25:42",
+        "user_agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/43.0.2357.134 Safari\/537.36"
+    },
+    {
+        "id": "238",
+        "app_id": "app-frontend",
+        "route": "site\/about",
+        "params": "array (\n  'r' => 'site\/about',\n)",
+        "user_id": "1",
+        "ip": "127.0.0.1",
+        "datetime": "2015-07-24 09:23:22",
+        "user_agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/43.0.2357.134 Safari\/537.36"
+    },
+    {
+        "id": "237",
+        "app_id": "app-frontend",
+        "route": "site\/index",
+        "params": "array (\n  'r' => 'site\/index',\n)",
+        "user_id": "1",
+        "ip": "127.0.0.1",
+        "datetime": "2015-07-24 09:23:10",
+        "user_agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/43.0.2357.134 Safari\/537.36"
+    },
+    {
+        "id": "236",
+        "app_id": "app-frontend",
+        "route": "site\/index",
+        "params": "array (\n  'r' => 'site\/index',\n)",
+        "user_id": "1",
+        "ip": "127.0.0.1",
+        "datetime": "2015-07-24 09:20:00",
+        "user_agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/43.0.2357.134 Safari\/537.36"
+    },
+    {
+        "id": "235",
+        "app_id": "app-frontend",
+        "route": "site\/index",
+        "params": "array (\n  'r' => 'site\/index',\n)",
+        "user_id": "1",
+        "ip": "127.0.0.1",
+        "datetime": "2015-07-24 09:19:33",
+        "user_agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/43.0.2357.134 Safari\/537.36"
+    },
+    {
+        "id": "234",
+        "app_id": "app-frontend",
+        "route": "site\/index",
+        "params": "array (\n  'r' => 'site\/index',\n)",
+        "user_id": "1",
+        "ip": "127.0.0.1",
+        "datetime": "2015-07-24 09:18:21",
+        "user_agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/43.0.2357.134 Safari\/537.36"
+    },
+    {
+        "id": "233",
+        "app_id": "app-frontend",
+        "route": "site\/index",
+        "params": "array (\n  'r' => 'site\/index',\n)",
+        "user_id": "1",
+        "ip": "127.0.0.1",
+        "datetime": "2015-07-24 09:17:58",
+        "user_agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/43.0.2357.134 Safari\/537.36"
+    },
+    {
+        "id": "232",
+        "app_id": "app-frontend",
+        "route": "site\/index",
+        "params": "array (\n  'r' => 'site\/index',\n)",
+        "user_id": "1",
+        "ip": "127.0.0.1",
+        "datetime": "2015-07-24 09:17:20",
+        "user_agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/43.0.2357.134 Safari\/537.36"
+    },
+    {
+        "id": "231",
+        "app_id": "app-frontend",
+        "route": "site\/index",
+        "params": "array (\n  'r' => 'site\/index',\n)",
+        "user_id": "1",
+        "ip": "127.0.0.1",
+        "datetime": "2015-07-24 09:11:10",
+        "user_agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/43.0.2357.134 Safari\/537.36"
+    },
+    {
+        "id": "230",
+        "app_id": "app-frontend",
+        "route": "site\/index",
+        "params": "array (\n  'r' => 'site\/index',\n)",
+        "user_id": "1",
+        "ip": "127.0.0.1",
+        "datetime": "2015-07-24 09:09:58",
+        "user_agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/43.0.2357.134 Safari\/537.36"
+    },
+    {
+        "id": "229",
+        "app_id": "app-frontend",
+        "route": "site\/about",
+        "params": "array (\n  'r' => 'site\/about',\n)",
+        "user_id": "1",
+        "ip": "127.0.0.1",
+        "datetime": "2015-07-24 09:09:41",
+        "user_agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/43.0.2357.134 Safari\/537.36"
+    },
+    {
+        "id": "228",
+        "app_id": "app-frontend",
+        "route": "",
+        "params": "array (\n)",
+        "user_id": "1",
+        "ip": "127.0.0.1",
+        "datetime": "2015-07-24 09:09:22",
+        "user_agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/43.0.2357.134 Safari\/537.36"
+    },
+    {
+        "id": "227",
+        "app_id": "app-frontend",
+        "route": "",
+        "params": "array (\n)",
+        "user_id": "1",
+        "ip": "127.0.0.1",
+        "datetime": "2015-07-23 16:14:59",
+        "user_agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/43.0.2357.134 Safari\/537.36"
+    },
+    {
+        "id": "226",
+        "app_id": "app-frontend",
+        "route": "",
+        "params": "array (\n)",
+        "user_id": "1",
+        "ip": "127.0.0.1",
+        "datetime": "2015-07-23 15:50:14",
+        "user_agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/43.0.2357.134 Safari\/537.36"
+    },
+    {
+        "id": "225",
+        "app_id": "app-frontend",
+        "route": "country\/index",
+        "params": "array (\n  'r' => 'country\/index',\n)",
+        "user_id": "1",
+        "ip": "127.0.0.1",
+        "datetime": "2015-07-23 15:50:11",
+        "user_agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/43.0.2357.134 Safari\/537.36"
+    },
+    {
+        "id": "224",
+        "app_id": "app-frontend",
+        "route": "site\/index",
+        "params": "array (\n  'r' => 'site\/index',\n)",
+        "user_id": "1",
+        "ip": "127.0.0.1",
+        "datetime": "2015-07-23 15:40:15",
+        "user_agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/43.0.2357.134 Safari\/537.36"
+    },
+    {
+        "id": "223",
+        "app_id": "app-frontend",
+        "route": "site\/index",
+        "params": "array (\n  'r' => 'site\/index',\n)",
+        "user_id": "1",
+        "ip": "127.0.0.1",
+        "datetime": "2015-07-23 15:29:50",
+        "user_agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/43.0.2357.134 Safari\/537.36"
+    },
+    {
+        "id": "222",
+        "app_id": "app-frontend",
+        "route": "country\/index",
+        "params": "array (\n  'r' => 'country\/index',\n)",
+        "user_id": "1",
+        "ip": "127.0.0.1",
+        "datetime": "2015-07-23 15:29:36",
+        "user_agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/43.0.2357.134 Safari\/537.36"
+    },
+    {
+        "id": "221",
+        "app_id": "app-frontend",
+        "route": "site\/about",
+        "params": "array (\n  'r' => 'site\/about',\n)",
+        "user_id": "1",
+        "ip": "127.0.0.1",
+        "datetime": "2015-07-23 15:29:27",
+        "user_agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/43.0.2357.134 Safari\/537.36"
+    },
+    {
+        "id": "220",
+        "app_id": "app-frontend",
+        "route": "",
+        "params": "array (\n)",
+        "user_id": "1",
+        "ip": "127.0.0.1",
+        "datetime": "2015-07-23 15:29:12",
+        "user_agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/43.0.2357.134 Safari\/537.36"
+    },
+    {
+        "id": "219",
+        "app_id": "app-frontend",
+        "route": "",
+        "params": "array (\n)",
+        "user_id": "1",
+        "ip": "127.0.0.1",
+        "datetime": "2015-07-23 15:26:24",
+        "user_agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/43.0.2357.134 Safari\/537.36"
+    },
+    {
+        "id": "218",
+        "app_id": "app-frontend",
+        "route": "debug\/default\/view",
+        "params": "array (\n  'r' => 'debug\/default\/view',\n  'tag' => '55b0eb64d9372',\n  'panel' => 'config',\n)",
+        "user_id": "1",
+        "ip": "127.0.0.1",
+        "datetime": "2015-07-23 15:26:21",
+        "user_agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/43.0.2357.134 Safari\/537.36"
+    },
+    {
+        "id": "217",
+        "app_id": "app-frontend",
+        "route": "debug\/default\/view",
+        "params": "array (\n  'r' => 'debug\/default\/view',\n  'tag' => '55b0eb64d9372',\n  'panel' => 'db',\n)",
+        "user_id": "1",
+        "ip": "127.0.0.1",
+        "datetime": "2015-07-23 15:26:15",
+        "user_agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/43.0.2357.134 Safari\/537.36"
+    },
+    {
+        "id": "216",
+        "app_id": "app-frontend",
+        "route": "debug\/default\/view",
+        "params": "array (\n  'r' => 'debug\/default\/view',\n  'panel' => 'log',\n  'tag' => '55b0eb64d9372',\n)",
+        "user_id": "1",
+        "ip": "127.0.0.1",
+        "datetime": "2015-07-23 15:26:06",
+        "user_agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/43.0.2357.134 Safari\/537.36"
+    },
+    {
+        "id": "215",
+        "app_id": "app-frontend",
+        "route": "",
+        "params": "array (\n)",
+        "user_id": "1",
+        "ip": "127.0.0.1",
+        "datetime": "2015-07-23 15:25:58",
+        "user_agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/43.0.2357.134 Safari\/537.36"
+    },
+    {
+        "id": "214",
+        "app_id": "app-frontend",
+        "route": "",
+        "params": "array (\n)",
+        "user_id": "1",
+        "ip": "127.0.0.1",
+        "datetime": "2015-07-23 15:24:16",
+        "user_agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/43.0.2357.134 Safari\/537.36"
+    },
+    {
+        "id": "213",
+        "app_id": "app-frontend",
+        "route": "country\/index",
+        "params": "array (\n  'r' => 'country\/index',\n)",
+        "user_id": "1",
+        "ip": "127.0.0.1",
+        "datetime": "2015-07-23 15:19:24",
+        "user_agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/43.0.2357.134 Safari\/537.36"
+    },
+    {
+        "id": "212",
+        "app_id": "app-frontend",
+        "route": "site\/about",
+        "params": "array (\n  'r' => 'site\/about',\n)",
+        "user_id": "1",
+        "ip": "127.0.0.1",
+        "datetime": "2015-07-23 15:19:22",
+        "user_agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/43.0.2357.134 Safari\/537.36"
+    },
+    {
+        "id": "211",
+        "app_id": "app-frontend",
+        "route": "site\/index",
+        "params": "array (\n  'r' => 'site\/index',\n)",
+        "user_id": "1",
+        "ip": "127.0.0.1",
+        "datetime": "2015-07-23 15:18:22",
+        "user_agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/43.0.2357.134 Safari\/537.36"
+    },
+    {
+        "id": "210",
+        "app_id": "app-frontend",
+        "route": "site\/about",
+        "params": "array (\n  'r' => 'site\/about',\n)",
+        "user_id": "1",
+        "ip": "127.0.0.1",
+        "datetime": "2015-07-23 15:18:06",
+        "user_agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/43.0.2357.134 Safari\/537.36"
+    },
+    {
+        "id": "209",
+        "app_id": "app-frontend",
+        "route": "site\/index",
+        "params": "array (\n  'r' => 'site\/index',\n)",
+        "user_id": "1",
+        "ip": "127.0.0.1",
+        "datetime": "2015-07-23 15:17:54",
+        "user_agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/43.0.2357.134 Safari\/537.36"
+    },
+    {
+        "id": "208",
+        "app_id": "app-frontend",
+        "route": "site\/index",
+        "params": "array (\n  'r' => 'site\/index',\n)",
+        "user_id": "1",
+        "ip": "127.0.0.1",
+        "datetime": "2015-07-23 15:17:33",
+        "user_agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/43.0.2357.134 Safari\/537.36"
+    },
+    {
+        "id": "207",
+        "app_id": "app-frontend",
+        "route": "site\/about",
+        "params": "array (\n  'r' => 'site\/about',\n)",
+        "user_id": "1",
+        "ip": "127.0.0.1",
+        "datetime": "2015-07-23 15:17:31",
+        "user_agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/43.0.2357.134 Safari\/537.36"
+    },
+    {
+        "id": "206",
+        "app_id": "app-frontend",
+        "route": "site\/index",
+        "params": "array (\n  'r' => 'site\/index',\n)",
+        "user_id": "1",
+        "ip": "127.0.0.1",
+        "datetime": "2015-07-23 15:17:18",
+        "user_agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/43.0.2357.134 Safari\/537.36"
+    },
+    {
+        "id": "205",
+        "app_id": "app-frontend",
+        "route": "site\/index",
+        "params": "array (\n  'r' => 'site\/index',\n)",
+        "user_id": "1",
+        "ip": "127.0.0.1",
+        "datetime": "2015-07-23 15:05:10",
+        "user_agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/43.0.2357.134 Safari\/537.36"
+    },
+    {
+        "id": "204",
+        "app_id": "app-frontend",
+        "route": "site\/about",
+        "params": "array (\n  'r' => 'site\/about',\n)",
+        "user_id": "1",
+        "ip": "127.0.0.1",
+        "datetime": "2015-07-23 15:05:06",
+        "user_agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/43.0.2357.134 Safari\/537.36"
+    },
+    {
+        "id": "203",
+        "app_id": "app-frontend",
+        "route": "",
+        "params": "array (\n)",
+        "user_id": "1",
+        "ip": "127.0.0.1",
+        "datetime": "2015-07-23 11:34:59",
+        "user_agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/43.0.2357.134 Safari\/537.36"
+    },
+    {
+        "id": "202",
+        "app_id": "app-frontend",
+        "route": "",
+        "params": "array (\n)",
+        "user_id": "1",
+        "ip": "127.0.0.1",
+        "datetime": "2015-07-23 11:24:07",
+        "user_agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/43.0.2357.134 Safari\/537.36"
+    },
+    {
+        "id": "201",
+        "app_id": "app-frontend",
+        "route": "",
+        "params": "array (\n)",
+        "user_id": "1",
+        "ip": "127.0.0.1",
+        "datetime": "2015-07-23 11:21:50",
+        "user_agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/43.0.2357.134 Safari\/537.36"
+    },
+    {
+        "id": "199",
+        "app_id": "app-frontend",
+        "route": "",
+        "params": "array (\n)",
+        "user_id": "1",
+        "ip": "127.0.0.1",
+        "datetime": "2015-07-23 10:13:21",
+        "user_agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/43.0.2357.134 Safari\/537.36"
+    },
+    {
+        "id": "200",
+        "app_id": "app-frontend",
+        "route": "",
+        "params": "array (\n)",
+        "user_id": "1",
+        "ip": "127.0.0.1",
+        "datetime": "2015-07-23 10:13:21",
+        "user_agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/43.0.2357.134 Safari\/537.36"
+    },
+    {
+        "id": "198",
+        "app_id": "app-frontend",
+        "route": "",
+        "params": "array (\n)",
+        "user_id": "1",
+        "ip": "127.0.0.1",
+        "datetime": "2015-07-23 09:23:56",
+        "user_agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/43.0.2357.134 Safari\/537.36"
+    },
+    {
+        "id": "197",
+        "app_id": "app-frontend",
+        "route": "site\/index",
+        "params": "array (\n  'r' => 'site\/index',\n)",
+        "user_id": "1",
+        "ip": "127.0.0.1",
+        "datetime": "2015-07-22 23:32:47",
+        "user_agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/43.0.2357.134 Safari\/537.36"
+    },
+    {
+        "id": "196",
+        "app_id": "app-frontend",
+        "route": "site\/index",
+        "params": "array (\n  'r' => 'site\/index',\n)",
+        "user_id": "1",
+        "ip": "127.0.0.1",
+        "datetime": "2015-07-22 23:31:29",
+        "user_agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/43.0.2357.134 Safari\/537.36"
+    },
+    {
+        "id": "195",
+        "app_id": "app-frontend",
+        "route": "site\/index",
+        "params": "array (\n  'r' => 'site\/index',\n)",
+        "user_id": "1",
+        "ip": "127.0.0.1",
+        "datetime": "2015-07-22 23:29:58",
+        "user_agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/43.0.2357.134 Safari\/537.36"
+    },
+    {
+        "id": "194",
+        "app_id": "app-frontend",
+        "route": "site\/index",
+        "params": "array (\n  'r' => 'site\/index',\n)",
+        "user_id": "1",
+        "ip": "127.0.0.1",
+        "datetime": "2015-07-22 23:29:17",
+        "user_agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/43.0.2357.134 Safari\/537.36"
+    },
+    {
+        "id": "193",
+        "app_id": "app-frontend",
+        "route": "site\/about",
+        "params": "array (\n  'r' => 'site\/about',\n)",
+        "user_id": "1",
+        "ip": "127.0.0.1",
+        "datetime": "2015-07-22 23:29:06",
+        "user_agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/43.0.2357.134 Safari\/537.36"
+    },
+    {
+        "id": "192",
+        "app_id": "app-frontend",
+        "route": "site\/index",
+        "params": "array (\n  'r' => 'site\/index',\n)",
+        "user_id": "1",
+        "ip": "127.0.0.1",
+        "datetime": "2015-07-22 23:18:17",
+        "user_agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/43.0.2357.134 Safari\/537.36"
+    },
+    {
+        "id": "191",
+        "app_id": "app-frontend",
+        "route": "site\/index",
+        "params": "array (\n  'r' => 'site\/index',\n)",
+        "user_id": "1",
+        "ip": "127.0.0.1",
+        "datetime": "2015-07-22 23:17:38",
+        "user_agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/43.0.2357.134 Safari\/537.36"
+    },
+    {
+        "id": "190",
+        "app_id": "app-frontend",
+        "route": "site\/index",
+        "params": "array (\n  'r' => 'site\/index',\n)",
+        "user_id": "1",
+        "ip": "127.0.0.1",
+        "datetime": "2015-07-22 23:14:55",
+        "user_agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/43.0.2357.134 Safari\/537.36"
+    },
+    {
+        "id": "189",
+        "app_id": "app-frontend",
+        "route": "site\/about",
+        "params": "array (\n  'r' => 'site\/about',\n)",
+        "user_id": "1",
+        "ip": "127.0.0.1",
+        "datetime": "2015-07-22 23:14:53",
+        "user_agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/43.0.2357.134 Safari\/537.36"
+    },
+    {
+        "id": "188",
+        "app_id": "app-frontend",
+        "route": "site\/index",
+        "params": "array (\n  'r' => 'site\/index',\n)",
+        "user_id": "1",
+        "ip": "127.0.0.1",
+        "datetime": "2015-07-22 23:13:00",
+        "user_agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/43.0.2357.134 Safari\/537.36"
+    },
+    {
+        "id": "187",
+        "app_id": "app-frontend",
+        "route": "site\/index",
+        "params": "array (\n  'r' => 'site\/index',\n)",
+        "user_id": "1",
+        "ip": "127.0.0.1",
+        "datetime": "2015-07-22 23:11:01",
+        "user_agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/43.0.2357.134 Safari\/537.36"
+    },
+    {
+        "id": "186",
+        "app_id": "app-frontend",
+        "route": "site\/about",
+        "params": "array (\n  'r' => 'site\/about',\n)",
+        "user_id": "1",
+        "ip": "127.0.0.1",
+        "datetime": "2015-07-22 23:10:59",
+        "user_agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/43.0.2357.134 Safari\/537.36"
+    },
+    {
+        "id": "185",
+        "app_id": "app-frontend",
+        "route": "site\/index",
+        "params": "array (\n  'r' => 'site\/index',\n)",
+        "user_id": "1",
+        "ip": "127.0.0.1",
+        "datetime": "2015-07-22 23:07:57",
+        "user_agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/43.0.2357.134 Safari\/537.36"
+    },
+    {
+        "id": "184",
+        "app_id": "app-frontend",
+        "route": "country\/index",
+        "params": "array (\n  'r' => 'country\/index',\n)",
+        "user_id": "1",
+        "ip": "127.0.0.1",
+        "datetime": "2015-07-22 23:07:55",
+        "user_agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/43.0.2357.134 Safari\/537.36"
+    },
+    {
+        "id": "183",
+        "app_id": "app-frontend",
+        "route": "site\/about",
+        "params": "array (\n  'r' => 'site\/about',\n)",
+        "user_id": "1",
+        "ip": "127.0.0.1",
+        "datetime": "2015-07-22 23:07:54",
+        "user_agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/43.0.2357.134 Safari\/537.36"
+    },
+    {
+        "id": "182",
+        "app_id": "app-frontend",
+        "route": "site\/index",
+        "params": "array (\n  'r' => 'site\/index',\n)",
+        "user_id": "1",
+        "ip": "127.0.0.1",
+        "datetime": "2015-07-22 23:05:31",
+        "user_agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/43.0.2357.134 Safari\/537.36"
+    },
+    {
+        "id": "181",
+        "app_id": "app-frontend",
+        "route": "site\/index",
+        "params": "array (\n  'r' => 'site\/index',\n)",
+        "user_id": "1",
+        "ip": "127.0.0.1",
+        "datetime": "2015-07-22 23:04:00",
+        "user_agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/43.0.2357.134 Safari\/537.36"
+    },
+    {
+        "id": "180",
+        "app_id": "app-frontend",
+        "route": "site\/about",
+        "params": "array (\n  'r' => 'site\/about',\n)",
+        "user_id": "1",
+        "ip": "127.0.0.1",
+        "datetime": "2015-07-22 23:03:58",
+        "user_agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/43.0.2357.134 Safari\/537.36"
+    },
+    {
+        "id": "179",
+        "app_id": "app-frontend",
+        "route": "",
+        "params": "array (\n)",
+        "user_id": "1",
+        "ip": "127.0.0.1",
+        "datetime": "2015-07-22 23:03:56",
+        "user_agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/43.0.2357.134 Safari\/537.36"
+    },
+    {
+        "id": "178",
+        "app_id": "app-frontend",
+        "route": "debug\/default\/view",
+        "params": "array (\n  'r' => 'debug\/default\/view',\n  'panel' => 'db',\n  'tag' => '55b0044b48d3d',\n)",
+        "user_id": "1",
+        "ip": "127.0.0.1",
+        "datetime": "2015-07-22 23:00:00",
+        "user_agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/43.0.2357.134 Safari\/537.36"
+    },
+    {
+        "id": "177",
+        "app_id": "app-frontend",
+        "route": "site\/index",
+        "params": "array (\n  'r' => 'site\/index',\n)",
+        "user_id": "1",
+        "ip": "127.0.0.1",
+        "datetime": "2015-07-22 22:59:55",
+        "user_agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/43.0.2357.134 Safari\/537.36"
+    },
+    {
+        "id": "176",
+        "app_id": "app-frontend",
+        "route": "site\/about",
+        "params": "array (\n  'r' => 'site\/about',\n)",
+        "user_id": "1",
+        "ip": "127.0.0.1",
+        "datetime": "2015-07-22 22:59:53",
+        "user_agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/43.0.2357.134 Safari\/537.36"
+    },
+    {
+        "id": "175",
+        "app_id": "app-frontend",
+        "route": "site\/index",
+        "params": "array (\n  'r' => 'site\/index',\n)",
+        "user_id": "1",
+        "ip": "127.0.0.1",
+        "datetime": "2015-07-22 22:53:01",
+        "user_agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/43.0.2357.134 Safari\/537.36"
+    },
+    {
+        "id": "174",
+        "app_id": "app-frontend",
+        "route": "site\/index",
+        "params": "array (\n  'r' => 'site\/index',\n)",
+        "user_id": "1",
+        "ip": "127.0.0.1",
+        "datetime": "2015-07-22 22:52:01",
+        "user_agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/43.0.2357.134 Safari\/537.36"
+    },
+    {
+        "id": "173",
+        "app_id": "app-frontend",
+        "route": "site\/about",
+        "params": "array (\n  'r' => 'site\/about',\n)",
+        "user_id": "1",
+        "ip": "127.0.0.1",
+        "datetime": "2015-07-22 22:51:59",
+        "user_agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/43.0.2357.134 Safari\/537.36"
+    },
+    {
+        "id": "172",
+        "app_id": "app-frontend",
+        "route": "",
+        "params": "array (\n)",
+        "user_id": "1",
+        "ip": "127.0.0.1",
+        "datetime": "2015-07-22 22:42:04",
+        "user_agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/43.0.2357.134 Safari\/537.36"
+    },
+    {
+        "id": "171",
+        "app_id": "app-frontend",
+        "route": "country\/view",
+        "params": "array (\n  'r' => 'country\/view',\n  'id' => 'AU',\n)",
+        "user_id": "1",
+        "ip": "127.0.0.1",
+        "datetime": "2015-07-22 22:42:01",
+        "user_agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/43.0.2357.134 Safari\/537.36"
+    },
+    {
+        "id": "170",
+        "app_id": "app-frontend",
+        "route": "country\/index",
+        "params": "array (\n  'r' => 'country\/index',\n)",
+        "user_id": "1",
+        "ip": "127.0.0.1",
+        "datetime": "2015-07-22 22:41:57",
+        "user_agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/43.0.2357.134 Safari\/537.36"
+    },
+    {
+        "id": "169",
+        "app_id": "app-frontend",
+        "route": "site\/index",
+        "params": "array (\n  'r' => 'site\/index',\n)",
+        "user_id": "1",
+        "ip": "127.0.0.1",
+        "datetime": "2015-07-22 22:40:53",
+        "user_agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/43.0.2357.134 Safari\/537.36"
+    },
+    {
+        "id": "168",
+        "app_id": "app-frontend",
+        "route": "site\/about",
+        "params": "array (\n  'r' => 'site\/about',\n)",
+        "user_id": "1",
+        "ip": "127.0.0.1",
+        "datetime": "2015-07-22 22:40:50",
+        "user_agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/43.0.2357.134 Safari\/537.36"
+    },
+    {
+        "id": "167",
+        "app_id": "app-frontend",
+        "route": "site\/index",
+        "params": "array (\n  'r' => 'site\/index',\n)",
+        "user_id": "1",
+        "ip": "127.0.0.1",
+        "datetime": "2015-07-22 22:37:21",
+        "user_agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/43.0.2357.134 Safari\/537.36"
+    },
+    {
+        "id": "166",
+        "app_id": "app-frontend",
+        "route": "site\/about",
+        "params": "array (\n  'r' => 'site\/about',\n)",
+        "user_id": "1",
+        "ip": "127.0.0.1",
+        "datetime": "2015-07-22 22:37:20",
+        "user_agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/43.0.2357.134 Safari\/537.36"
+    },
+    {
+        "id": "165",
+        "app_id": "app-frontend",
+        "route": "site\/index",
+        "params": "array (\n  'r' => 'site\/index',\n)",
+        "user_id": "1",
+        "ip": "127.0.0.1",
+        "datetime": "2015-07-22 22:37:17",
+        "user_agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/43.0.2357.134 Safari\/537.36"
+    },
+    {
+        "id": "164",
+        "app_id": "app-frontend",
+        "route": "site\/index",
+        "params": "array (\n  'r' => 'site\/index',\n)",
+        "user_id": "1",
+        "ip": "127.0.0.1",
+        "datetime": "2015-07-22 22:30:18",
+        "user_agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/43.0.2357.134 Safari\/537.36"
+    },
+    {
+        "id": "163",
+        "app_id": "app-frontend",
+        "route": "site\/about",
+        "params": "array (\n  'r' => 'site\/about',\n)",
+        "user_id": "1",
+        "ip": "127.0.0.1",
+        "datetime": "2015-07-22 22:30:16",
+        "user_agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/43.0.2357.134 Safari\/537.36"
+    },
+    {
+        "id": "162",
+        "app_id": "app-frontend",
+        "route": "",
+        "params": "array (\n)",
+        "user_id": "1",
+        "ip": "127.0.0.1",
+        "datetime": "2015-07-22 22:30:11",
+        "user_agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/43.0.2357.134 Safari\/537.36"
+    },
+    {
+        "id": "161",
+        "app_id": "app-frontend",
+        "route": "debug\/default\/view",
+        "params": "array (\n  'r' => 'debug\/default\/view',\n  'tag' => '55aff957ec3e9',\n  'panel' => 'db',\n)",
+        "user_id": "1",
+        "ip": "127.0.0.1",
+        "datetime": "2015-07-22 22:13:46",
+        "user_agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/43.0.2357.134 Safari\/537.36"
+    },
+    {
+        "id": "160",
+        "app_id": "app-frontend",
+        "route": "debug\/default\/view",
+        "params": "array (\n  'r' => 'debug\/default\/view',\n  'tag' => '55aff957ec3e9',\n  'panel' => 'profiling',\n)",
+        "user_id": "1",
+        "ip": "127.0.0.1",
+        "datetime": "2015-07-22 22:13:44",
+        "user_agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/43.0.2357.134 Safari\/537.36"
+    },
+    {
+        "id": "159",
+        "app_id": "app-frontend",
+        "route": "debug\/default\/view",
+        "params": "array (\n  'r' => 'debug\/default\/view',\n  'panel' => 'log',\n  'tag' => '55aff957ec3e9',\n)",
+        "user_id": "1",
+        "ip": "127.0.0.1",
+        "datetime": "2015-07-22 22:13:31",
+        "user_agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/43.0.2357.134 Safari\/537.36"
+    },
+    {
+        "id": "158",
+        "app_id": "app-frontend",
+        "route": "country\/index",
+        "params": "array (\n  'r' => 'country\/index',\n)",
+        "user_id": "1",
+        "ip": "127.0.0.1",
+        "datetime": "2015-07-22 22:12:27",
+        "user_agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/43.0.2357.134 Safari\/537.36"
+    },
+    {
+        "id": "157",
+        "app_id": "app-frontend",
+        "route": "debug\/default\/view",
+        "params": "array (\n  'r' => 'debug\/default\/view',\n  'tag' => '55aff4447fd42',\n  'panel' => 'log',\n)",
+        "user_id": "1",
+        "ip": "127.0.0.1",
+        "datetime": "2015-07-22 21:57:13",
+        "user_agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/43.0.2357.134 Safari\/537.36"
+    },
+    {
+        "id": "156",
+        "app_id": "app-frontend",
+        "route": "debug\/default\/view",
+        "params": "array (\n  'r' => 'debug\/default\/view',\n  'panel' => 'request',\n  'tag' => '55aff4447fd42',\n)",
+        "user_id": "1",
+        "ip": "127.0.0.1",
+        "datetime": "2015-07-22 21:55:11",
+        "user_agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/43.0.2357.134 Safari\/537.36"
+    },
+    {
+        "id": "155",
+        "app_id": "app-frontend",
+        "route": "country\/index",
+        "params": "array (\n  'r' => 'country\/index',\n)",
+        "user_id": "1",
+        "ip": "127.0.0.1",
+        "datetime": "2015-07-22 21:48:44",
+        "user_agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/43.0.2357.134 Safari\/537.36"
+    },
+    {
+        "id": "154",
+        "app_id": "app-frontend",
+        "route": "",
+        "params": "array (\n)",
+        "user_id": "1",
+        "ip": "127.0.0.1",
+        "datetime": "2015-07-22 21:48:41",
+        "user_agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/43.0.2357.134 Safari\/537.36"
+    },
+    {
+        "id": "153",
+        "app_id": "app-frontend",
+        "route": "gii\/default\/view",
+        "params": "array (\n  'r' => 'gii\/default\/view',\n  'id' => 'ajaxcrud',\n)",
+        "user_id": "1",
+        "ip": "127.0.0.1",
+        "datetime": "2015-07-22 21:48:08",
+        "user_agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/43.0.2357.134 Safari\/537.36"
+    },
+    {
+        "id": "152",
+        "app_id": "app-frontend",
+        "route": "gii\/default\/view",
+        "params": "array (\n  'r' => 'gii\/default\/view',\n  'id' => 'ajaxcrud',\n)",
+        "user_id": "1",
+        "ip": "127.0.0.1",
+        "datetime": "2015-07-22 21:48:00",
+        "user_agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/43.0.2357.134 Safari\/537.36"
+    },
+    {
+        "id": "151",
+        "app_id": "app-frontend",
+        "route": "gii\/default\/view",
+        "params": "array (\n  'r' => 'gii\/default\/view',\n  'id' => 'ajaxcrud',\n)",
+        "user_id": "1",
+        "ip": "127.0.0.1",
+        "datetime": "2015-07-22 21:45:02",
+        "user_agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/43.0.2357.134 Safari\/537.36"
+    },
+    {
+        "id": "150",
+        "app_id": "app-frontend",
+        "route": "gii\/default\/view",
+        "params": "array (\n  'r' => 'gii\/default\/view',\n  'id' => 'model',\n)",
+        "user_id": "1",
+        "ip": "127.0.0.1",
+        "datetime": "2015-07-22 21:44:56",
+        "user_agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/43.0.2357.134 Safari\/537.36"
+    },
+    {
+        "id": "149",
+        "app_id": "app-frontend",
+        "route": "gii\/default\/view",
+        "params": "array (\n  'r' => 'gii\/default\/view',\n  'id' => 'model',\n)",
+        "user_id": "1",
+        "ip": "127.0.0.1",
+        "datetime": "2015-07-22 21:44:52",
+        "user_agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/43.0.2357.134 Safari\/537.36"
+    },
+    {
+        "id": "148",
+        "app_id": "app-frontend",
+        "route": "gii\/default\/view",
+        "params": "array (\n  'r' => 'gii\/default\/view',\n  'id' => 'model',\n)",
+        "user_id": "1",
+        "ip": "127.0.0.1",
+        "datetime": "2015-07-22 21:44:41",
+        "user_agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/43.0.2357.134 Safari\/537.36"
+    },
+    {
+        "id": "147",
+        "app_id": "app-frontend",
+        "route": "gii\/default\/view",
+        "params": "array (\n  'r' => 'gii\/default\/view',\n  'id' => 'ajaxcrud',\n)",
+        "user_id": "1",
+        "ip": "127.0.0.1",
+        "datetime": "2015-07-22 21:44:32",
+        "user_agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/43.0.2357.134 Safari\/537.36"
+    },
+    {
+        "id": "145",
+        "app_id": "app-frontend",
+        "route": "gii",
+        "params": "array (\n  'r' => 'gii',\n)",
+        "user_id": "1",
+        "ip": "127.0.0.1",
+        "datetime": "2015-07-22 21:44:19",
+        "user_agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/43.0.2357.134 Safari\/537.36"
+    },
+    {
+        "id": "146",
+        "app_id": "app-frontend",
+        "route": "gii",
+        "params": "array (\n  'r' => 'gii',\n)",
+        "user_id": "1",
+        "ip": "127.0.0.1",
+        "datetime": "2015-07-22 21:44:19",
+        "user_agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/43.0.2357.134 Safari\/537.36"
+    },
+    {
+        "id": "144",
+        "app_id": "app-frontend",
+        "route": "site\/about",
+        "params": "array (\n  'r' => 'site\/about',\n)",
+        "user_id": "1",
+        "ip": "127.0.0.1",
+        "datetime": "2015-07-22 21:44:12",
+        "user_agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/43.0.2357.134 Safari\/537.36"
+    },
+    {
+        "id": "143",
+        "app_id": "app-frontend",
+        "route": "",
+        "params": "array (\n)",
+        "user_id": "1",
+        "ip": "127.0.0.1",
+        "datetime": "2015-07-22 21:44:10",
+        "user_agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/43.0.2357.134 Safari\/537.36"
+    },
+    {
+        "id": "142",
+        "app_id": "app-frontend",
+        "route": "",
+        "params": "array (\n)",
+        "user_id": "1",
+        "ip": "127.0.0.1",
+        "datetime": "2015-07-22 21:43:59",
+        "user_agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/43.0.2357.134 Safari\/537.36"
+    },
+    {
+        "id": "141",
+        "app_id": "app-frontend",
+        "route": "gii",
+        "params": "array (\n  'r' => 'gii',\n)",
+        "user_id": "1",
+        "ip": "127.0.0.1",
+        "datetime": "2015-07-22 21:34:59",
+        "user_agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/43.0.2357.134 Safari\/537.36"
+    },
+    {
+        "id": "140",
+        "app_id": "app-frontend",
+        "route": "gii\/default\/view",
+        "params": "array (\n  'r' => 'gii\/default\/view',\n  'id' => 'module',\n)",
+        "user_id": "1",
+        "ip": "127.0.0.1",
+        "datetime": "2015-07-22 21:34:41",
+        "user_agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/43.0.2357.134 Safari\/537.36"
+    },
+    {
+        "id": "139",
+        "app_id": "app-frontend",
+        "route": "gii",
+        "params": "array (\n  'r' => 'gii',\n)",
+        "user_id": "1",
+        "ip": "127.0.0.1",
+        "datetime": "2015-07-22 21:34:29",
+        "user_agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/43.0.2357.134 Safari\/537.36"
+    },
+    {
+        "id": "138",
+        "app_id": "app-frontend",
+        "route": "gii\/default\/view",
+        "params": "array (\n  'r' => 'gii\/default\/view',\n  'id' => 'extension',\n)",
+        "user_id": "1",
+        "ip": "127.0.0.1",
+        "datetime": "2015-07-22 21:34:19",
+        "user_agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/43.0.2357.134 Safari\/537.36"
+    },
+    {
+        "id": "137",
+        "app_id": "app-frontend",
+        "route": "gii",
+        "params": "array (\n  'r' => 'gii',\n)",
+        "user_id": "1",
+        "ip": "127.0.0.1",
+        "datetime": "2015-07-22 21:34:09",
+        "user_agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/43.0.2357.134 Safari\/537.36"
+    },
+    {
+        "id": "136",
+        "app_id": "app-frontend",
+        "route": "country\/index",
+        "params": "array (\n  'r' => 'country\/index',\n)",
+        "user_id": "1",
+        "ip": "127.0.0.1",
+        "datetime": "2015-07-22 21:34:06",
+        "user_agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/43.0.2357.134 Safari\/537.36"
+    },
+    {
+        "id": "135",
+        "app_id": "app-frontend",
+        "route": "",
+        "params": "array (\n)",
+        "user_id": "1",
+        "ip": "127.0.0.1",
+        "datetime": "2015-07-22 21:33:51",
+        "user_agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/43.0.2357.134 Safari\/537.36"
+    },
+    {
+        "id": "134",
+        "app_id": "app-frontend",
+        "route": "country\/index",
+        "params": "array (\n  'r' => 'country\/index',\n)",
+        "user_id": "1",
+        "ip": "127.0.0.1",
+        "datetime": "2015-07-22 21:33:45",
+        "user_agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/43.0.2357.134 Safari\/537.36"
+    },
+    {
+        "id": "133",
+        "app_id": "app-frontend",
+        "route": "country\/index",
+        "params": "array (\n  'r' => 'country\/index',\n)",
+        "user_id": "1",
+        "ip": "127.0.0.1",
+        "datetime": "2015-07-22 21:33:05",
+        "user_agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/43.0.2357.134 Safari\/537.36"
+    },
+    {
+        "id": "132",
+        "app_id": "app-frontend",
+        "route": "country\/view",
+        "params": "array (\n  'r' => 'country\/view',\n  'id' => 'AU',\n)",
+        "user_id": "1",
+        "ip": "127.0.0.1",
+        "datetime": "2015-07-22 21:32:34",
+        "user_agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/43.0.2357.134 Safari\/537.36"
+    },
+    {
+        "id": "131",
+        "app_id": "app-frontend",
+        "route": "country\/index",
+        "params": "array (\n  'r' => 'country\/index',\n)",
+        "user_id": "1",
+        "ip": "127.0.0.1",
+        "datetime": "2015-07-22 21:32:25",
+        "user_agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/43.0.2357.134 Safari\/537.36"
+    },
+    {
+        "id": "130",
+        "app_id": "app-frontend",
+        "route": "country\/index",
+        "params": "array (\n  'r' => 'country\/index',\n)",
+        "user_id": "1",
+        "ip": "127.0.0.1",
+        "datetime": "2015-07-22 21:31:24",
+        "user_agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/43.0.2357.134 Safari\/537.36"
+    },
+    {
+        "id": "129",
+        "app_id": "app-frontend",
+        "route": "site\/index",
+        "params": "array (\n  'r' => 'site\/index',\n)",
+        "user_id": "1",
+        "ip": "127.0.0.1",
+        "datetime": "2015-07-22 21:31:21",
+        "user_agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/43.0.2357.134 Safari\/537.36"
+    },
+    {
+        "id": "128",
+        "app_id": "app-frontend",
+        "route": "site\/index",
+        "params": "array (\n  'r' => 'site\/index',\n)",
+        "user_id": "1",
+        "ip": "127.0.0.1",
+        "datetime": "2015-07-22 21:21:28",
+        "user_agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/43.0.2357.134 Safari\/537.36"
+    },
+    {
+        "id": "127",
+        "app_id": "app-frontend",
+        "route": "site\/about",
+        "params": "array (\n  'r' => 'site\/about',\n)",
+        "user_id": "1",
+        "ip": "127.0.0.1",
+        "datetime": "2015-07-22 21:21:25",
+        "user_agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/43.0.2357.134 Safari\/537.36"
+    },
+    {
+        "id": "126",
+        "app_id": "app-frontend",
+        "route": "",
+        "params": "array (\n)",
+        "user_id": "1",
+        "ip": "127.0.0.1",
+        "datetime": "2015-07-22 21:21:09",
+        "user_agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/43.0.2357.134 Safari\/537.36"
+    },
+    {
+        "id": "125",
+        "app_id": "app-frontend",
+        "route": "",
+        "params": "array (\n)",
+        "user_id": "1",
+        "ip": "127.0.0.1",
+        "datetime": "2015-07-22 21:20:14",
+        "user_agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/43.0.2357.134 Safari\/537.36"
+    },
+    {
+        "id": "124",
+        "app_id": "app-frontend",
+        "route": "",
+        "params": "array (\n)",
+        "user_id": "1",
+        "ip": "127.0.0.1",
+        "datetime": "2015-07-22 21:18:09",
+        "user_agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/43.0.2357.134 Safari\/537.36"
+    },
+    {
+        "id": "123",
+        "app_id": "app-frontend",
+        "route": "",
+        "params": "array (\n)",
+        "user_id": "1",
+        "ip": "127.0.0.1",
+        "datetime": "2015-07-22 21:17:58",
+        "user_agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/43.0.2357.134 Safari\/537.36"
+    },
+    {
+        "id": "122",
+        "app_id": "app-frontend",
+        "route": "",
+        "params": "array (\n)",
+        "user_id": "1",
+        "ip": "127.0.0.1",
+        "datetime": "2015-07-22 21:17:03",
+        "user_agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/43.0.2357.134 Safari\/537.36"
+    },
+    {
+        "id": "121",
+        "app_id": "app-frontend",
+        "route": "",
+        "params": "array (\n)",
+        "user_id": "1",
+        "ip": "127.0.0.1",
+        "datetime": "2015-07-22 21:16:45",
+        "user_agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/43.0.2357.134 Safari\/537.36"
+    },
+    {
+        "id": "120",
+        "app_id": "app-frontend",
+        "route": "",
+        "params": "array (\n)",
+        "user_id": "1",
+        "ip": "127.0.0.1",
+        "datetime": "2015-07-22 21:16:37",
+        "user_agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/43.0.2357.134 Safari\/537.36"
+    },
+    {
+        "id": "119",
+        "app_id": "app-frontend",
+        "route": "",
+        "params": "array (\n)",
+        "user_id": "1",
+        "ip": "127.0.0.1",
+        "datetime": "2015-07-22 21:16:31",
+        "user_agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/43.0.2357.134 Safari\/537.36"
+    },
+    {
+        "id": "118",
+        "app_id": "app-frontend",
+        "route": "",
+        "params": "array (\n)",
+        "user_id": "1",
+        "ip": "127.0.0.1",
+        "datetime": "2015-07-22 21:16:27",
+        "user_agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/43.0.2357.134 Safari\/537.36"
+    },
+    {
+        "id": "117",
+        "app_id": "app-frontend",
+        "route": "",
+        "params": "array (\n)",
+        "user_id": "1",
+        "ip": "127.0.0.1",
+        "datetime": "2015-07-22 21:14:12",
+        "user_agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/43.0.2357.134 Safari\/537.36"
+    },
+    {
+        "id": "116",
+        "app_id": "app-frontend",
+        "route": "",
+        "params": "array (\n)",
+        "user_id": "1",
+        "ip": "127.0.0.1",
+        "datetime": "2015-07-22 21:12:18",
+        "user_agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/43.0.2357.134 Safari\/537.36"
+    },
+    {
+        "id": "115",
+        "app_id": "app-frontend",
+        "route": "debug\/default\/view",
+        "params": "array (\n  'r' => 'debug\/default\/view',\n  'tag' => '55afe9e17d617',\n  'panel' => 'config',\n)",
+        "user_id": "1",
+        "ip": "127.0.0.1",
+        "datetime": "2015-07-22 21:11:49",
+        "user_agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/43.0.2357.134 Safari\/537.36"
+    },
+    {
+        "id": "114",
+        "app_id": "app-frontend",
+        "route": "debug\/default\/view",
+        "params": "array (\n  'r' => 'debug\/default\/view',\n  'tag' => '55afe9e17d617',\n  'panel' => 'request',\n)",
+        "user_id": "1",
+        "ip": "127.0.0.1",
+        "datetime": "2015-07-22 21:11:28",
+        "user_agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/43.0.2357.134 Safari\/537.36"
+    },
+    {
+        "id": "113",
+        "app_id": "app-frontend",
+        "route": "debug\/default\/view",
+        "params": "array (\n  'r' => 'debug\/default\/view',\n  'tag' => '55afe9e17d617',\n  'panel' => 'log',\n)",
+        "user_id": "1",
+        "ip": "127.0.0.1",
+        "datetime": "2015-07-22 21:11:27",
+        "user_agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/43.0.2357.134 Safari\/537.36"
+    },
+    {
+        "id": "112",
+        "app_id": "app-frontend",
+        "route": "debug\/default\/view",
+        "params": "array (\n  'r' => 'debug\/default\/view',\n  'tag' => '55afe9e17d617',\n  'panel' => 'profiling',\n)",
+        "user_id": "1",
+        "ip": "127.0.0.1",
+        "datetime": "2015-07-22 21:11:21",
+        "user_agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/43.0.2357.134 Safari\/537.36"
+    },
+    {
+        "id": "111",
+        "app_id": "app-frontend",
+        "route": "debug\/default\/view",
+        "params": "array (\n  'r' => 'debug\/default\/view',\n  'tag' => '55afe9e17d617',\n  'panel' => 'assets',\n)",
+        "user_id": "1",
+        "ip": "127.0.0.1",
+        "datetime": "2015-07-22 21:11:18",
+        "user_agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/43.0.2357.134 Safari\/537.36"
+    },
+    {
+        "id": "110",
+        "app_id": "app-frontend",
+        "route": "debug\/default\/view",
+        "params": "array (\n  'r' => 'debug\/default\/view',\n  'tag' => '55afe9e17d617',\n  'panel' => 'db',\n)",
+        "user_id": "1",
+        "ip": "127.0.0.1",
+        "datetime": "2015-07-22 21:11:08",
+        "user_agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/43.0.2357.134 Safari\/537.36"
+    },
+    {
+        "id": "109",
+        "app_id": "app-frontend",
+        "route": "debug\/default\/view",
+        "params": "array (\n  'r' => 'debug\/default\/view',\n  'panel' => 'log',\n  'tag' => '55afe9e17d617',\n)",
+        "user_id": "1",
+        "ip": "127.0.0.1",
+        "datetime": "2015-07-22 21:10:12",
+        "user_agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/43.0.2357.134 Safari\/537.36"
+    },
+    {
+        "id": "108",
+        "app_id": "app-frontend",
+        "route": "",
+        "params": "array (\n)",
+        "user_id": "1",
+        "ip": "127.0.0.1",
+        "datetime": "2015-07-22 21:07:13",
+        "user_agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/43.0.2357.134 Safari\/537.36"
+    },
+    {
+        "id": "107",
+        "app_id": "app-frontend",
+        "route": "",
+        "params": "array (\n)",
+        "user_id": "1",
+        "ip": "127.0.0.1",
+        "datetime": "2015-07-22 21:03:26",
+        "user_agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/43.0.2357.134 Safari\/537.36"
+    },
+    {
+        "id": "106",
+        "app_id": "app-frontend",
+        "route": "",
+        "params": "array (\n)",
+        "user_id": "1",
+        "ip": "127.0.0.1",
+        "datetime": "2015-07-22 21:03:10",
+        "user_agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/43.0.2357.134 Safari\/537.36"
+    },
+    {
+        "id": "105",
+        "app_id": "app-frontend",
+        "route": "",
+        "params": "array (\n)",
+        "user_id": "1",
+        "ip": "127.0.0.1",
+        "datetime": "2015-07-22 21:03:00",
+        "user_agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/43.0.2357.134 Safari\/537.36"
+    },
+    {
+        "id": "103",
+        "app_id": "app-frontend",
+        "route": "",
+        "params": "array (\n)",
+        "user_id": "1",
+        "ip": "127.0.0.1",
+        "datetime": "2015-07-22 21:02:25",
+        "user_agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/43.0.2357.134 Safari\/537.36"
+    },
+    {
+        "id": "104",
+        "app_id": "app-frontend",
+        "route": "",
+        "params": "array (\n)",
+        "user_id": "1",
+        "ip": "127.0.0.1",
+        "datetime": "2015-07-22 21:02:25",
+        "user_agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/43.0.2357.134 Safari\/537.36"
+    },
+    {
+        "id": "100",
+        "app_id": "app-frontend",
+        "route": "",
+        "params": "array (\n)",
+        "user_id": "1",
+        "ip": "127.0.0.1",
+        "datetime": "2015-07-22 15:04:50",
+        "user_agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/43.0.2357.134 Safari\/537.36"
+    },
+    {
+        "id": "101",
+        "app_id": "app-frontend",
+        "route": "site\/about",
+        "params": "array (\n  'r' => 'site\/about',\n)",
+        "user_id": "1",
+        "ip": "127.0.0.1",
+        "datetime": "2015-07-22 15:04:50",
+        "user_agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/43.0.2357.134 Safari\/537.36"
+    },
+    {
+        "id": "102",
+        "app_id": "app-frontend",
+        "route": "",
+        "params": "array (\n)",
+        "user_id": "1",
+        "ip": "127.0.0.1",
+        "datetime": "2015-07-22 15:04:50",
+        "user_agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/43.0.2357.134 Safari\/537.36"
+    },
+    {
+        "id": "99",
+        "app_id": "app-frontend",
+        "route": "site\/about",
+        "params": "array (\n  'r' => 'site\/about',\n)",
+        "user_id": "1",
+        "ip": "127.0.0.1",
+        "datetime": "2015-07-22 15:04:49",
+        "user_agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/43.0.2357.134 Safari\/537.36"
+    },
+    {
+        "id": "98",
+        "app_id": "app-frontend",
+        "route": "site\/about",
+        "params": "array (\n  'r' => 'site\/about',\n)",
+        "user_id": "1",
+        "ip": "127.0.0.1",
+        "datetime": "2015-07-22 14:51:56",
+        "user_agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/43.0.2357.134 Safari\/537.36"
+    },
+    {
+        "id": "97",
+        "app_id": "app-frontend",
+        "route": "",
+        "params": "array (\n)",
+        "user_id": "1",
+        "ip": "127.0.0.1",
+        "datetime": "2015-07-22 14:51:55",
+        "user_agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/43.0.2357.134 Safari\/537.36"
+    },
+    {
+        "id": "96",
+        "app_id": "app-frontend",
+        "route": "debug\/default\/view",
+        "params": "array (\n  'r' => 'debug\/default\/view',\n  'panel' => 'profiling',\n  'tag' => '55af91b861800',\n)",
+        "user_id": "1",
+        "ip": "127.0.0.1",
+        "datetime": "2015-07-22 14:51:06",
+        "user_agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/43.0.2357.134 Safari\/537.36"
+    },
+    {
+        "id": "94",
+        "app_id": "app-frontend",
+        "route": "site\/login",
+        "params": "array (\n  'r' => 'site\/login',\n)",
+        "user_id": "1",
+        "ip": "127.0.0.1",
+        "datetime": "2015-07-22 14:51:04",
+        "user_agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/43.0.2357.134 Safari\/537.36"
+    },
+    {
+        "id": "95",
+        "app_id": "app-frontend",
+        "route": "",
+        "params": "array (\n)",
+        "user_id": "1",
+        "ip": "127.0.0.1",
+        "datetime": "2015-07-22 14:51:04",
+        "user_agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/43.0.2357.134 Safari\/537.36"
+    },
+    {
+        "id": "93",
+        "app_id": "app-frontend",
+        "route": "site\/login",
+        "params": "array (\n  'r' => 'site\/login',\n)",
+        "user_id": null,
+        "ip": "127.0.0.1",
+        "datetime": "2015-07-22 14:51:01",
+        "user_agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/43.0.2357.134 Safari\/537.36"
+    },
+    {
+        "id": "91",
+        "app_id": "app-frontend",
+        "route": "site\/logout",
+        "params": "array (\n  'r' => 'site\/logout',\n)",
+        "user_id": null,
+        "ip": "127.0.0.1",
+        "datetime": "2015-07-22 14:50:58",
+        "user_agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/43.0.2357.134 Safari\/537.36"
+    },
+    {
+        "id": "92",
+        "app_id": "app-frontend",
+        "route": "",
+        "params": "array (\n)",
+        "user_id": null,
+        "ip": "127.0.0.1",
+        "datetime": "2015-07-22 14:50:58",
+        "user_agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/43.0.2357.134 Safari\/537.36"
+    },
+    {
+        "id": "90",
+        "app_id": "app-frontend",
+        "route": "",
+        "params": "array (\n)",
+        "user_id": "1",
+        "ip": "127.0.0.1",
+        "datetime": "2015-07-22 14:50:56",
+        "user_agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/43.0.2357.134 Safari\/537.36"
+    },
+    {
+        "id": "89",
+        "app_id": "app-frontend",
+        "route": "debug\/default\/view",
+        "params": "array (\n  'r' => 'debug\/default\/view',\n  'tag' => '55af917d1243b',\n  'panel' => 'db',\n)",
+        "user_id": "1",
+        "ip": "127.0.0.1",
+        "datetime": "2015-07-22 14:50:11",
+        "user_agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/43.0.2357.134 Safari\/537.36"
+    },
+    {
+        "id": "88",
+        "app_id": "app-frontend",
+        "route": "debug\/default\/view",
+        "params": "array (\n  'r' => 'debug\/default\/view',\n  'panel' => 'request',\n  'tag' => '55af917d1243b',\n)",
+        "user_id": "1",
+        "ip": "127.0.0.1",
+        "datetime": "2015-07-22 14:50:08",
+        "user_agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/43.0.2357.134 Safari\/537.36"
+    },
+    {
+        "id": "86",
+        "app_id": "app-frontend",
+        "route": "site\/login",
+        "params": "array (\n  'r' => 'site\/login',\n)",
+        "user_id": "1",
+        "ip": "127.0.0.1",
+        "datetime": "2015-07-22 14:50:05",
+        "user_agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/43.0.2357.134 Safari\/537.36"
+    },
+    {
+        "id": "87",
+        "app_id": "app-frontend",
+        "route": "",
+        "params": "array (\n)",
+        "user_id": "1",
+        "ip": "127.0.0.1",
+        "datetime": "2015-07-22 14:50:05",
+        "user_agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/43.0.2357.134 Safari\/537.36"
+    },
+    {
+        "id": "85",
+        "app_id": "app-frontend",
+        "route": "site\/login",
+        "params": "array (\n  'r' => 'site\/login',\n)",
+        "user_id": null,
+        "ip": "127.0.0.1",
+        "datetime": "2015-07-22 14:50:02",
+        "user_agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/43.0.2357.134 Safari\/537.36"
+    },
+    {
+        "id": "84",
+        "app_id": "app-frontend",
+        "route": "",
+        "params": "array (\n)",
+        "user_id": null,
+        "ip": "127.0.0.1",
+        "datetime": "2015-07-22 14:50:00",
+        "user_agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/43.0.2357.134 Safari\/537.36"
+    },
+    {
+        "id": "83",
+        "app_id": "app-frontend",
+        "route": "site\/logout",
+        "params": "array (\n  'r' => 'site\/logout',\n)",
+        "user_id": null,
+        "ip": "127.0.0.1",
+        "datetime": "2015-07-22 14:49:58",
+        "user_agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/43.0.2357.134 Safari\/537.36"
+    },
+    {
+        "id": "82",
+        "app_id": "app-frontend",
+        "route": "",
+        "params": "array (\n)",
+        "user_id": "1",
+        "ip": "127.0.0.1",
+        "datetime": "2015-07-22 14:49:53",
+        "user_agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/43.0.2357.134 Safari\/537.36"
+    },
+    {
+        "id": "81",
+        "app_id": "app-frontend",
+        "route": "debug\/default\/view",
+        "params": "array (\n  'r' => 'debug\/default\/view',\n  'panel' => 'profiling',\n  'tag' => '55af8fa611845',\n)",
+        "user_id": "1",
+        "ip": "127.0.0.1",
+        "datetime": "2015-07-22 14:49:51",
+        "user_agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/43.0.2357.134 Safari\/537.36"
+    },
+    {
+        "id": "80",
+        "app_id": "app-frontend",
+        "route": "debug\/default\/view",
+        "params": "array (\n  'r' => 'debug\/default\/view',\n  'panel' => 'profiling',\n  'tag' => '55af8fa611845',\n)",
+        "user_id": "1",
+        "ip": "127.0.0.1",
+        "datetime": "2015-07-22 14:48:57",
+        "user_agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/43.0.2357.134 Safari\/537.36"
+    },
+    {
+        "id": "78",
+        "app_id": "app-frontend",
+        "route": "site\/login",
+        "params": "array (\n  'r' => 'site\/login',\n)",
+        "user_id": "1",
+        "ip": "127.0.0.1",
+        "datetime": "2015-07-22 14:42:14",
+        "user_agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/43.0.2357.134 Safari\/537.36"
+    },
+    {
+        "id": "79",
+        "app_id": "app-frontend",
+        "route": "",
+        "params": "array (\n)",
+        "user_id": "1",
+        "ip": "127.0.0.1",
+        "datetime": "2015-07-22 14:42:14",
+        "user_agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/43.0.2357.134 Safari\/537.36"
+    },
+    {
+        "id": "77",
+        "app_id": "app-frontend",
+        "route": "site\/login",
+        "params": "array (\n  'r' => 'site\/login',\n)",
+        "user_id": null,
+        "ip": "127.0.0.1",
+        "datetime": "2015-07-22 14:42:10",
+        "user_agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/43.0.2357.134 Safari\/537.36"
+    },
+    {
+        "id": "75",
+        "app_id": "app-frontend",
+        "route": "site\/logout",
+        "params": "array (\n  'r' => 'site\/logout',\n)",
+        "user_id": null,
+        "ip": "127.0.0.1",
+        "datetime": "2015-07-22 14:42:06",
+        "user_agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/43.0.2357.134 Safari\/537.36"
+    },
+    {
+        "id": "76",
+        "app_id": "app-frontend",
+        "route": "",
+        "params": "array (\n)",
+        "user_id": null,
+        "ip": "127.0.0.1",
+        "datetime": "2015-07-22 14:42:06",
+        "user_agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/43.0.2357.134 Safari\/537.36"
+    },
+    {
+        "id": "74",
+        "app_id": "app-frontend",
+        "route": "",
+        "params": "array (\n)",
+        "user_id": "1",
+        "ip": "127.0.0.1",
+        "datetime": "2015-07-22 13:12:58",
+        "user_agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/43.0.2357.134 Safari\/537.36"
+    },
+    {
+        "id": "73",
+        "app_id": "app-frontend",
+        "route": "site\/about",
+        "params": "array (\n  'r' => 'site\/about',\n)",
+        "user_id": "1",
+        "ip": "127.0.0.1",
+        "datetime": "2015-07-22 12:57:17",
+        "user_agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/43.0.2357.134 Safari\/537.36"
+    },
+    {
+        "id": "72",
+        "app_id": "app-frontend",
+        "route": "country\/index",
+        "params": "array (\n  'r' => 'country\/index',\n)",
+        "user_id": "1",
+        "ip": "127.0.0.1",
+        "datetime": "2015-07-22 12:43:04",
+        "user_agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/43.0.2357.134 Safari\/537.36"
+    },
+    {
+        "id": "71",
+        "app_id": "app-frontend",
+        "route": "",
+        "params": "array (\n)",
+        "user_id": "1",
+        "ip": "127.0.0.1",
+        "datetime": "2015-07-22 12:43:00",
+        "user_agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/43.0.2357.134 Safari\/537.36"
+    },
+    {
+        "id": "70",
+        "app_id": "app-frontend",
+        "route": "country\/index",
+        "params": "array (\n  'r' => 'country\/index',\n)",
+        "user_id": "1",
+        "ip": "127.0.0.1",
+        "datetime": "2015-07-22 12:41:50",
+        "user_agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/43.0.2357.134 Safari\/537.36"
+    },
+    {
+        "id": "69",
+        "app_id": "app-frontend",
+        "route": "",
+        "params": "array (\n)",
+        "user_id": "1",
+        "ip": "127.0.0.1",
+        "datetime": "2015-07-22 12:33:57",
+        "user_agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/43.0.2357.134 Safari\/537.36"
+    },
+    {
+        "id": "68",
+        "app_id": "app-frontend",
+        "route": "gii\/default\/view",
+        "params": "array (\n  'r' => 'gii\/default\/view',\n  'id' => 'crud',\n)",
+        "user_id": "1",
+        "ip": "127.0.0.1",
+        "datetime": "2015-07-22 12:33:45",
+        "user_agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/43.0.2357.134 Safari\/537.36"
+    },
+    {
+        "id": "67",
+        "app_id": "app-frontend",
+        "route": "gii\/default\/view",
+        "params": "array (\n  'r' => 'gii\/default\/view',\n  'id' => 'crud',\n)",
+        "user_id": "1",
+        "ip": "127.0.0.1",
+        "datetime": "2015-07-22 12:33:39",
+        "user_agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/43.0.2357.134 Safari\/537.36"
+    },
+    {
+        "id": "66",
+        "app_id": "app-frontend",
+        "route": "gii\/default\/view",
+        "params": "array (\n  'r' => 'gii\/default\/view',\n  'id' => 'crud',\n)",
+        "user_id": "1",
+        "ip": "127.0.0.1",
+        "datetime": "2015-07-22 12:31:10",
+        "user_agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/43.0.2357.134 Safari\/537.36"
+    },
+    {
+        "id": "65",
+        "app_id": "app-frontend",
+        "route": "gii\/default\/view",
+        "params": "array (\n  'r' => 'gii\/default\/view',\n  'id' => 'model',\n)",
+        "user_id": "1",
+        "ip": "127.0.0.1",
+        "datetime": "2015-07-22 12:31:05",
+        "user_agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/43.0.2357.134 Safari\/537.36"
+    },
+    {
+        "id": "64",
+        "app_id": "app-frontend",
+        "route": "gii\/default\/view",
+        "params": "array (\n  'r' => 'gii\/default\/view',\n  'id' => 'model',\n)",
+        "user_id": "1",
+        "ip": "127.0.0.1",
+        "datetime": "2015-07-22 12:30:56",
+        "user_agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/43.0.2357.134 Safari\/537.36"
+    },
+    {
+        "id": "63",
+        "app_id": "app-frontend",
+        "route": "",
+        "params": "array (\n)",
+        "user_id": "1",
+        "ip": "127.0.0.1",
+        "datetime": "2015-07-22 12:30:16",
+        "user_agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/43.0.2357.134 Safari\/537.36"
+    },
+    {
+        "id": "62",
+        "app_id": "app-frontend",
+        "route": "",
+        "params": "array (\n)",
+        "user_id": "1",
+        "ip": "127.0.0.1",
+        "datetime": "2015-07-22 12:30:13",
+        "user_agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/43.0.2357.134 Safari\/537.36"
+    },
+    {
+        "id": "61",
+        "app_id": "app-frontend",
+        "route": "country\/index",
+        "params": "array (\n  'r' => 'country\/index',\n)",
+        "user_id": "1",
+        "ip": "127.0.0.1",
+        "datetime": "2015-07-22 12:29:56",
+        "user_agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/43.0.2357.134 Safari\/537.36"
+    },
+    {
+        "id": "60",
+        "app_id": "app-frontend",
+        "route": "",
+        "params": "array (\n)",
+        "user_id": "1",
+        "ip": "127.0.0.1",
+        "datetime": "2015-07-22 12:20:33",
+        "user_agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/43.0.2357.134 Safari\/537.36"
+    },
+    {
+        "id": "59",
+        "app_id": "app-frontend",
+        "route": "gii\/default\/view",
+        "params": "array (\n  'r' => 'gii\/default\/view',\n  'id' => 'model',\n)",
+        "user_id": "1",
+        "ip": "127.0.0.1",
+        "datetime": "2015-07-22 12:19:37",
+        "user_agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/43.0.2357.134 Safari\/537.36"
+    },
+    {
+        "id": "58",
+        "app_id": "app-frontend",
+        "route": "gii\/default\/view",
+        "params": "array (\n  'r' => 'gii\/default\/view',\n  'id' => 'crud',\n)",
+        "user_id": "1",
+        "ip": "127.0.0.1",
+        "datetime": "2015-07-22 12:19:25",
+        "user_agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/43.0.2357.134 Safari\/537.36"
+    },
+    {
+        "id": "57",
+        "app_id": "app-frontend",
+        "route": "gii",
+        "params": "array (\n  'r' => 'gii',\n)",
+        "user_id": "1",
+        "ip": "127.0.0.1",
+        "datetime": "2015-07-22 12:19:22",
+        "user_agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/43.0.2357.134 Safari\/537.36"
+    },
+    {
+        "id": "56",
+        "app_id": "app-frontend",
+        "route": "country\/index",
+        "params": "array (\n  'r' => 'country\/index',\n)",
+        "user_id": "1",
+        "ip": "127.0.0.1",
+        "datetime": "2015-07-22 12:19:06",
+        "user_agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/43.0.2357.134 Safari\/537.36"
+    },
+    {
+        "id": "55",
+        "app_id": "app-frontend",
+        "route": "country\/index",
+        "params": "array (\n  'r' => 'country\/index',\n)",
+        "user_id": "1",
+        "ip": "127.0.0.1",
+        "datetime": "2015-07-22 12:18:51",
+        "user_agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/43.0.2357.134 Safari\/537.36"
+    },
+    {
+        "id": "54",
+        "app_id": "app-frontend",
+        "route": "",
+        "params": "array (\n)",
+        "user_id": "1",
+        "ip": "127.0.0.1",
+        "datetime": "2015-07-22 12:18:49",
+        "user_agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/43.0.2357.134 Safari\/537.36"
+    },
+    {
+        "id": "53",
+        "app_id": "app-frontend",
+        "route": "gii\/default\/view",
+        "params": "array (\n  'r' => 'gii\/default\/view',\n  'id' => 'crud',\n)",
+        "user_id": "1",
+        "ip": "127.0.0.1",
+        "datetime": "2015-07-22 12:18:41",
+        "user_agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/43.0.2357.134 Safari\/537.36"
+    },
+    {
+        "id": "52",
+        "app_id": "app-frontend",
+        "route": "gii\/default\/view",
+        "params": "array (\n  'r' => 'gii\/default\/view',\n  'id' => 'crud',\n)",
+        "user_id": "1",
+        "ip": "127.0.0.1",
+        "datetime": "2015-07-22 12:18:29",
+        "user_agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/43.0.2357.134 Safari\/537.36"
+    },
+    {
+        "id": "51",
+        "app_id": "app-frontend",
+        "route": "gii\/default\/view",
+        "params": "array (\n  'r' => 'gii\/default\/view',\n  'id' => 'crud',\n)",
+        "user_id": "1",
+        "ip": "127.0.0.1",
+        "datetime": "2015-07-22 12:15:24",
+        "user_agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/43.0.2357.134 Safari\/537.36"
+    },
+    {
+        "id": "50",
+        "app_id": "app-frontend",
+        "route": "gii\/default\/view",
+        "params": "array (\n  'r' => 'gii\/default\/view',\n  'id' => 'crud',\n)",
+        "user_id": "1",
+        "ip": "127.0.0.1",
+        "datetime": "2015-07-22 12:14:21",
+        "user_agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/43.0.2357.134 Safari\/537.36"
+    },
+    {
+        "id": "49",
+        "app_id": "app-frontend",
+        "route": "gii\/default\/view",
+        "params": "array (\n  'r' => 'gii\/default\/view',\n  'id' => 'crud',\n)",
+        "user_id": "1",
+        "ip": "127.0.0.1",
+        "datetime": "2015-07-22 12:13:29",
+        "user_agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/43.0.2357.134 Safari\/537.36"
+    },
+    {
+        "id": "48",
+        "app_id": "app-frontend",
+        "route": "gii\/default\/view",
+        "params": "array (\n  'r' => 'gii\/default\/view',\n  'id' => 'crud',\n)",
+        "user_id": "1",
+        "ip": "127.0.0.1",
+        "datetime": "2015-07-22 12:11:45",
+        "user_agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/43.0.2357.134 Safari\/537.36"
+    },
+    {
+        "id": "47",
+        "app_id": "app-frontend",
+        "route": "gii\/default\/view",
+        "params": "array (\n  'r' => 'gii\/default\/view',\n  'id' => 'model',\n)",
+        "user_id": "1",
+        "ip": "127.0.0.1",
+        "datetime": "2015-07-22 12:11:43",
+        "user_agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/43.0.2357.134 Safari\/537.36"
+    },
+    {
+        "id": "46",
+        "app_id": "app-frontend",
+        "route": "gii\/default\/view",
+        "params": "array (\n  'r' => 'gii\/default\/view',\n  'id' => 'model',\n)",
+        "user_id": "1",
+        "ip": "127.0.0.1",
+        "datetime": "2015-07-22 12:11:38",
+        "user_agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/43.0.2357.134 Safari\/537.36"
+    },
+    {
+        "id": "45",
+        "app_id": "app-frontend",
+        "route": "gii\/default\/view",
+        "params": "array (\n  'r' => 'gii\/default\/view',\n  'id' => 'model',\n)",
+        "user_id": "1",
+        "ip": "127.0.0.1",
+        "datetime": "2015-07-22 12:11:17",
+        "user_agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/43.0.2357.134 Safari\/537.36"
+    },
+    {
+        "id": "44",
+        "app_id": "app-frontend",
+        "route": "gii",
+        "params": "array (\n  'r' => 'gii',\n)",
+        "user_id": "1",
+        "ip": "127.0.0.1",
+        "datetime": "2015-07-22 12:11:14",
+        "user_agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/43.0.2357.134 Safari\/537.36"
+    },
+    {
+        "id": "43",
+        "app_id": "app-frontend",
+        "route": "site\/about",
+        "params": "array (\n  'r' => 'site\/about',\n)",
+        "user_id": "1",
+        "ip": "127.0.0.1",
+        "datetime": "2015-07-22 12:11:08",
+        "user_agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/43.0.2357.134 Safari\/537.36"
+    },
+    {
+        "id": "42",
+        "app_id": "app-frontend",
+        "route": "",
+        "params": "array (\n)",
+        "user_id": "1",
+        "ip": "127.0.0.1",
+        "datetime": "2015-07-22 12:11:06",
+        "user_agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/43.0.2357.134 Safari\/537.36"
+    },
+    {
+        "id": "41",
+        "app_id": "app-frontend",
+        "route": "site\/about",
+        "params": "array (\n  'r' => 'site\/about',\n)",
+        "user_id": "1",
+        "ip": "127.0.0.1",
+        "datetime": "2015-07-22 12:07:39",
+        "user_agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/43.0.2357.134 Safari\/537.36"
+    },
+    {
+        "id": "39",
+        "app_id": "app-frontend",
+        "route": "",
+        "params": "array (\n)",
+        "user_id": "1",
+        "ip": "127.0.0.1",
+        "datetime": "2015-07-22 12:07:37",
+        "user_agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/43.0.2357.134 Safari\/537.36"
+    },
+    {
+        "id": "40",
+        "app_id": "app-frontend",
+        "route": "",
+        "params": "array (\n)",
+        "user_id": "1",
+        "ip": "127.0.0.1",
+        "datetime": "2015-07-22 12:07:37",
+        "user_agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/43.0.2357.134 Safari\/537.36"
+    },
+    {
+        "id": "38",
+        "app_id": "app-frontend",
+        "route": "debug\/default\/view",
+        "params": "array (\n  'r' => 'debug\/default\/view',\n  'panel' => 'log',\n  'tag' => '55af663d42776',\n)",
+        "user_id": "1",
+        "ip": "127.0.0.1",
+        "datetime": "2015-07-22 11:45:49",
+        "user_agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/43.0.2357.134 Safari\/537.36"
+    },
+    {
+        "id": "37",
+        "app_id": "app-frontend",
+        "route": "debug\/default\/view",
+        "params": "array (\n  'r' => 'debug\/default\/view',\n  'panel' => 'log',\n  'tag' => '55af663d42776',\n)",
+        "user_id": "1",
+        "ip": "127.0.0.1",
+        "datetime": "2015-07-22 11:45:38",
+        "user_agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/43.0.2357.134 Safari\/537.36"
+    },
+    {
+        "id": "36",
+        "app_id": "app-frontend",
+        "route": "site\/index",
+        "params": "array (\n  'r' => 'site\/index',\n)",
+        "user_id": "1",
+        "ip": "127.0.0.1",
+        "datetime": "2015-07-22 11:45:32",
+        "user_agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/43.0.2357.134 Safari\/537.36"
+    },
+    {
+        "id": "35",
+        "app_id": "app-frontend",
+        "route": "country\/index",
+        "params": "array (\n  'r' => 'country\/index',\n)",
+        "user_id": "1",
+        "ip": "127.0.0.1",
+        "datetime": "2015-07-22 11:45:29",
+        "user_agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/43.0.2357.134 Safari\/537.36"
+    },
+    {
+        "id": "34",
+        "app_id": "app-frontend",
+        "route": "country\/index",
+        "params": "array (\n  'r' => 'country\/index',\n)",
+        "user_id": "1",
+        "ip": "127.0.0.1",
+        "datetime": "2015-07-22 11:39:11",
+        "user_agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/43.0.2357.134 Safari\/537.36"
+    },
+    {
+        "id": "33",
+        "app_id": "app-frontend",
+        "route": "",
+        "params": "array (\n)",
+        "user_id": "1",
+        "ip": "127.0.0.1",
+        "datetime": "2015-07-22 11:39:05",
+        "user_agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/43.0.2357.134 Safari\/537.36"
+    },
+    {
+        "id": "32",
+        "app_id": "app-frontend",
+        "route": "gii\/default\/view",
+        "params": "array (\n  'r' => 'gii\/default\/view',\n  'id' => 'crud',\n)",
+        "user_id": "1",
+        "ip": "127.0.0.1",
+        "datetime": "2015-07-22 11:38:55",
+        "user_agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/43.0.2357.134 Safari\/537.36"
+    },
+    {
+        "id": "31",
+        "app_id": "app-frontend",
+        "route": "gii\/default\/view",
+        "params": "array (\n  'r' => 'gii\/default\/view',\n  'id' => 'crud',\n)",
+        "user_id": "1",
+        "ip": "127.0.0.1",
+        "datetime": "2015-07-22 11:38:39",
+        "user_agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/43.0.2357.134 Safari\/537.36"
+    },
+    {
+        "id": "30",
+        "app_id": "app-frontend",
+        "route": "gii\/default\/view",
+        "params": "array (\n  'r' => 'gii\/default\/view',\n  'id' => 'crud',\n)",
+        "user_id": "1",
+        "ip": "127.0.0.1",
+        "datetime": "2015-07-22 11:36:08",
+        "user_agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/43.0.2357.134 Safari\/537.36"
+    },
+    {
+        "id": "29",
+        "app_id": "app-frontend",
+        "route": "gii\/default\/view",
+        "params": "array (\n  'r' => 'gii\/default\/view',\n  'id' => 'model',\n)",
+        "user_id": "1",
+        "ip": "127.0.0.1",
+        "datetime": "2015-07-22 11:36:04",
+        "user_agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/43.0.2357.134 Safari\/537.36"
+    },
+    {
+        "id": "28",
+        "app_id": "app-frontend",
+        "route": "gii\/default\/view",
+        "params": "array (\n  'r' => 'gii\/default\/view',\n  'id' => 'model',\n)",
+        "user_id": "1",
+        "ip": "127.0.0.1",
+        "datetime": "2015-07-22 11:35:59",
+        "user_agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/43.0.2357.134 Safari\/537.36"
+    },
+    {
+        "id": "27",
+        "app_id": "app-frontend",
+        "route": "gii\/default\/view",
+        "params": "array (\n  'r' => 'gii\/default\/view',\n  'id' => 'model',\n)",
+        "user_id": "1",
+        "ip": "127.0.0.1",
+        "datetime": "2015-07-22 11:35:39",
+        "user_agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/43.0.2357.134 Safari\/537.36"
+    },
+    {
+        "id": "26",
+        "app_id": "app-frontend",
+        "route": "gii",
+        "params": "array (\n  'r' => 'gii',\n)",
+        "user_id": "1",
+        "ip": "127.0.0.1",
+        "datetime": "2015-07-22 11:35:32",
+        "user_agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/43.0.2357.134 Safari\/537.36"
+    },
+    {
+        "id": "25",
+        "app_id": "app-frontend",
+        "route": "site\/about",
+        "params": "array (\n  'r' => 'site\/about',\n)",
+        "user_id": "1",
+        "ip": "127.0.0.1",
+        "datetime": "2015-07-22 11:35:27",
+        "user_agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/43.0.2357.134 Safari\/537.36"
+    },
+    {
+        "id": "24",
+        "app_id": "app-frontend",
+        "route": "",
+        "params": "array (\n)",
+        "user_id": "1",
+        "ip": "127.0.0.1",
+        "datetime": "2015-07-22 11:35:23",
+        "user_agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/43.0.2357.134 Safari\/537.36"
+    },
+    {
+        "id": "22",
+        "app_id": "app-frontend",
+        "route": "site\/login",
+        "params": "array (\n  'r' => 'site\/login',\n)",
+        "user_id": "1",
+        "ip": "127.0.0.1",
+        "datetime": "2015-07-22 11:10:14",
+        "user_agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/43.0.2357.134 Safari\/537.36"
+    },
+    {
+        "id": "23",
+        "app_id": "app-frontend",
+        "route": "",
+        "params": "array (\n)",
+        "user_id": "1",
+        "ip": "127.0.0.1",
+        "datetime": "2015-07-22 11:10:14",
+        "user_agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/43.0.2357.134 Safari\/537.36"
+    },
+    {
+        "id": "21",
+        "app_id": "app-frontend",
+        "route": "site\/login",
+        "params": "array (\n  'r' => 'site\/login',\n)",
+        "user_id": null,
+        "ip": "127.0.0.1",
+        "datetime": "2015-07-22 11:10:10",
+        "user_agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/43.0.2357.134 Safari\/537.36"
+    },
+    {
+        "id": "19",
+        "app_id": "app-frontend",
+        "route": "site\/logout",
+        "params": "array (\n  'r' => 'site\/logout',\n)",
+        "user_id": null,
+        "ip": "127.0.0.1",
+        "datetime": "2015-07-22 11:10:06",
+        "user_agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/43.0.2357.134 Safari\/537.36"
+    },
+    {
+        "id": "20",
+        "app_id": "app-frontend",
+        "route": "",
+        "params": "array (\n)",
+        "user_id": null,
+        "ip": "127.0.0.1",
+        "datetime": "2015-07-22 11:10:06",
+        "user_agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/43.0.2357.134 Safari\/537.36"
+    },
+    {
+        "id": "18",
+        "app_id": "app-frontend",
+        "route": "site\/about",
+        "params": "array (\n  'r' => 'site\/about',\n)",
+        "user_id": "2",
+        "ip": "127.0.0.1",
+        "datetime": "2015-07-22 10:58:40",
+        "user_agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/43.0.2357.134 Safari\/537.36"
+    },
+    {
+        "id": "17",
+        "app_id": "app-frontend",
+        "route": "",
+        "params": "array (\n)",
+        "user_id": "2",
+        "ip": "127.0.0.1",
+        "datetime": "2015-07-22 10:52:21",
+        "user_agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/43.0.2357.134 Safari\/537.36"
+    },
+    {
+        "id": "16",
+        "app_id": "app-frontend",
+        "route": "",
+        "params": "array (\n)",
+        "user_id": "2",
+        "ip": "127.0.0.1",
+        "datetime": "2015-07-22 10:27:57",
+        "user_agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/43.0.2357.134 Safari\/537.36"
+    },
+    {
+        "id": "14",
+        "app_id": "app-frontend",
+        "route": "site\/login",
+        "params": "array (\n  'r' => 'site\/login',\n)",
+        "user_id": "2",
+        "ip": "127.0.0.1",
+        "datetime": "2015-07-22 10:27:45",
+        "user_agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/43.0.2357.134 Safari\/537.36"
+    },
+    {
+        "id": "15",
+        "app_id": "app-frontend",
+        "route": "",
+        "params": "array (\n)",
+        "user_id": "2",
+        "ip": "127.0.0.1",
+        "datetime": "2015-07-22 10:27:45",
+        "user_agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/43.0.2357.134 Safari\/537.36"
+    },
+    {
+        "id": "13",
+        "app_id": "app-frontend",
+        "route": "site\/login",
+        "params": "array (\n  'r' => 'site\/login',\n)",
+        "user_id": null,
+        "ip": "127.0.0.1",
+        "datetime": "2015-07-22 10:27:35",
+        "user_agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/43.0.2357.134 Safari\/537.36"
+    },
+    {
+        "id": "11",
+        "app_id": "app-frontend",
+        "route": "site\/logout",
+        "params": "array (\n  'r' => 'site\/logout',\n)",
+        "user_id": null,
+        "ip": "127.0.0.1",
+        "datetime": "2015-07-22 10:18:01",
+        "user_agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/43.0.2357.134 Safari\/537.36"
+    },
+    {
+        "id": "12",
+        "app_id": "app-frontend",
+        "route": "",
+        "params": "array (\n)",
+        "user_id": null,
+        "ip": "127.0.0.1",
+        "datetime": "2015-07-22 10:18:01",
+        "user_agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/43.0.2357.134 Safari\/537.36"
+    },
+    {
+        "id": "10",
+        "app_id": "app-frontend",
+        "route": "",
+        "params": "array (\n)",
+        "user_id": "1",
+        "ip": "127.0.0.1",
+        "datetime": "2015-07-22 10:17:58",
+        "user_agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/43.0.2357.134 Safari\/537.36"
+    },
+    {
+        "id": "8",
+        "app_id": "app-frontend",
+        "route": "country\/delete",
+        "params": "array (\n  'r' => 'country\/delete',\n  'id' => 'ad',\n)",
+        "user_id": "1",
+        "ip": "127.0.0.1",
+        "datetime": "2015-07-22 10:17:56",
+        "user_agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/43.0.2357.134 Safari\/537.36"
+    },
+    {
+        "id": "9",
+        "app_id": "app-frontend",
+        "route": "country\/index",
+        "params": "array (\n  'r' => 'country\/index',\n)",
+        "user_id": "1",
+        "ip": "127.0.0.1",
+        "datetime": "2015-07-22 10:17:56",
+        "user_agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/43.0.2357.134 Safari\/537.36"
+    },
+    {
+        "id": "6",
+        "app_id": "app-frontend",
+        "route": "country\/update",
+        "params": "array (\n  'r' => 'country\/update',\n  'id' => 'as',\n)",
+        "user_id": "1",
+        "ip": "127.0.0.1",
+        "datetime": "2015-07-22 10:17:53",
+        "user_agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/43.0.2357.134 Safari\/537.36"
+    },
+    {
+        "id": "7",
+        "app_id": "app-frontend",
+        "route": "country\/view",
+        "params": "array (\n  'r' => 'country\/view',\n  'id' => 'ad',\n)",
+        "user_id": "1",
+        "ip": "127.0.0.1",
+        "datetime": "2015-07-22 10:17:53",
+        "user_agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/43.0.2357.134 Safari\/537.36"
+    },
+    {
+        "id": "5",
+        "app_id": "app-frontend",
+        "route": "country\/update",
+        "params": "array (\n  'r' => 'country\/update',\n  'id' => 'as',\n)",
+        "user_id": "1",
+        "ip": "127.0.0.1",
+        "datetime": "2015-07-22 10:17:49",
+        "user_agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/43.0.2357.134 Safari\/537.36"
+    },
+    {
+        "id": "3",
+        "app_id": "app-frontend",
+        "route": "country\/create",
+        "params": "array (\n  'r' => 'country\/create',\n)",
+        "user_id": "1",
+        "ip": "127.0.0.1",
+        "datetime": "2015-07-22 10:17:37",
+        "user_agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/43.0.2357.134 Safari\/537.36"
+    },
+    {
+        "id": "4",
+        "app_id": "app-frontend",
+        "route": "country\/view",
+        "params": "array (\n  'r' => 'country\/view',\n  'id' => 'as',\n)",
+        "user_id": "1",
+        "ip": "127.0.0.1",
+        "datetime": "2015-07-22 10:17:37",
+        "user_agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/43.0.2357.134 Safari\/537.36"
+    },
+    {
+        "id": "2",
+        "app_id": "app-frontend",
+        "route": "country\/create",
+        "params": "array (\n  'r' => 'country\/create',\n)",
+        "user_id": "1",
+        "ip": "127.0.0.1",
+        "datetime": "2015-07-22 10:17:30",
+        "user_agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/43.0.2357.134 Safari\/537.36"
+    },
+    {
+        "id": "1",
+        "app_id": "app-frontend",
+        "route": "country\/index",
+        "params": "array (\n  'CountrySearch' => \n  array (\n    'code' => 'au',\n    'name' => '',\n    'population' => '',\n  ),\n  'r' => 'country\/index',\n)",
+        "user_id": "1",
+        "ip": "127.0.0.1",
+        "datetime": "2015-07-22 10:17:27",
+        "user_agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/43.0.2357.134 Safari\/537.36"
+    }
+]
